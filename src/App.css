@@ -1,0 +1,84 @@
+:root {
+	--color1:#3D5B59;
+	--color2:#B5E5CF;
+	--color3:#FCB5AC;
+	--color4:#B99095;
+	--radius:25px;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('./fonts/Vazir.woff');
+}
+
+@font-face {
+  font-family: 'b-nazanin';
+  src: url('./fonts/B_NAZANIN/B-NAZANIN.TTF');
+}
+
+@font-face {
+  font-family: 'dastnevis';
+  src: url('./fonts/danstevis/danstevis.otf');
+}
+
+.App {
+	display: flex;
+	position: absolute;
+	flex-direction: column;
+	align-items: center;
+	justify-content:  center;
+	background-color: var(--color3);
+	top:0;
+	bottom: 0;
+	width: 100%;
+	height: 100vh;
+}
+
+.days{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.days_number{
+	font-size: 25vh;
+	font-family: b-nazanin, monospace;
+	font-weight: bolder;
+}
+
+.desc{
+	font-weight: bold;
+	font-family: b-nazanin, monospace;
+}
+
+.big_items_container{
+	display: flex;
+	flex-direction: row;
+	width:70%;
+	justify-content: space-between;
+}
+
+.big-item{
+	background-color: var(--color2);
+	border-radius: var(--radius);
+	padding:10px 20px;
+	width:100px;
+	text-align: center;
+	font-size: x-large;
+	color:black;
+	font-family: b-nazanin, monospace;
+}
+
+.small-item{
+	background-color: var(--color2);
+	border-radius: var(--radius);
+	padding:5px 10px;
+}
+
+.quote{
+	position: absolute;
+	bottom: 10vh;
+	font-family: dastnevis, monospace;
+	font-size: x-large;
+	/*font-style: italic;*/
+}
