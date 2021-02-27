@@ -5,7 +5,11 @@
 	--color4:#B99095;
 	--radius:25px;
 }
-
+a {
+	all: unset;
+	color:black;
+	cursor: pointer;
+}
 @font-face {
   font-family: 'Vazir';
   src: url('./fonts/Vazir.woff');
@@ -55,18 +59,21 @@
 	display: flex;
 	flex-direction: row;
 	width:70%;
-	justify-content: space-between;
+	justify-content: center;
 }
 
 .big-item{
 	background-color: var(--color2);
 	border-radius: var(--radius);
-	padding:10px 20px;
-	width:100px;
+	margin: 0 10%;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:400px;
 	text-align: center;
 	font-size: x-large;
-	color:black;
+	color:black !important;
 	font-family: b-nazanin, monospace;
+	transition: all ease 300ms;
 }
 
 .small-item{
@@ -81,4 +88,9 @@
 	font-family: dastnevis, monospace;
 	font-size: x-large;
 	/*font-style: italic;*/
+}
+
+.hover{
+	background-color: var(--color4);
+	filter: drop-shadow(0 0 10px #0005);
 }
