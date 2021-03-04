@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/konkur-countdown/static/css/main.41b24d36.chunk.css",
-    "main.js": "/konkur-countdown/static/js/main.b8e4df33.chunk.js",
-    "main.js.map": "/konkur-countdown/static/js/main.b8e4df33.chunk.js.map",
-    "runtime-main.js": "/konkur-countdown/static/js/runtime-main.9914e149.js",
-    "runtime-main.js.map": "/konkur-countdown/static/js/runtime-main.9914e149.js.map",
-    "static/js/2.42544138.chunk.js": "/konkur-countdown/static/js/2.42544138.chunk.js",
-    "static/js/2.42544138.chunk.js.map": "/konkur-countdown/static/js/2.42544138.chunk.js.map",
-    "static/js/3.4e381d41.chunk.js": "/konkur-countdown/static/js/3.4e381d41.chunk.js",
-    "static/js/3.4e381d41.chunk.js.map": "/konkur-countdown/static/js/3.4e381d41.chunk.js.map",
+    "main.css": "/konkur-countdown/static/css/main.120d1a86.chunk.css",
+    "main.js": "/konkur-countdown/static/js/main.2b5f0f29.chunk.js",
+    "main.js.map": "/konkur-countdown/static/js/main.2b5f0f29.chunk.js.map",
+    "runtime-main.js": "/konkur-countdown/static/js/runtime-main.793305f2.js",
+    "runtime-main.js.map": "/konkur-countdown/static/js/runtime-main.793305f2.js.map",
+    "static/js/2.095275ce.chunk.js": "/konkur-countdown/static/js/2.095275ce.chunk.js",
+    "static/js/2.095275ce.chunk.js.map": "/konkur-countdown/static/js/2.095275ce.chunk.js.map",
+    "static/js/3.1b3181cd.chunk.js": "/konkur-countdown/static/js/3.1b3181cd.chunk.js",
+    "static/js/3.1b3181cd.chunk.js.map": "/konkur-countdown/static/js/3.1b3181cd.chunk.js.map",
     "index.html": "/konkur-countdown/index.html",
-    "static/css/main.41b24d36.chunk.css.map": "/konkur-countdown/static/css/main.41b24d36.chunk.css.map",
-    "static/js/2.42544138.chunk.js.LICENSE.txt": "/konkur-countdown/static/js/2.42544138.chunk.js.LICENSE.txt",
+    "static/css/main.120d1a86.chunk.css.map": "/konkur-countdown/static/css/main.120d1a86.chunk.css.map",
+    "static/js/2.095275ce.chunk.js.LICENSE.txt": "/konkur-countdown/static/js/2.095275ce.chunk.js.LICENSE.txt",
+    "static/media/1.bbba8f9f.gif": "/konkur-countdown/static/media/1.bbba8f9f.gif",
+    "static/media/2.76684628.gif": "/konkur-countdown/static/media/2.76684628.gif",
+    "static/media/3.3c56f37f.gif": "/konkur-countdown/static/media/3.3c56f37f.gif",
     "static/media/App.css": "/konkur-countdown/static/media/danstevis.ace96f6a.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9914e149.js",
-    "static/js/2.42544138.chunk.js",
-    "static/css/main.41b24d36.chunk.css",
-    "static/js/main.b8e4df33.chunk.js"
+    "static/js/runtime-main.793305f2.js",
+    "static/js/2.095275ce.chunk.js",
+    "static/css/main.120d1a86.chunk.css",
+    "static/js/main.2b5f0f29.chunk.js"
   ]
 }
