@@ -25,6 +25,10 @@ a {
   src: url('./fonts/danstevis/danstevis.otf');
 }
 
+.pointer{
+	cursor: pointer;
+}
+
 .App {
 	display: flex;
 	position: absolute;
@@ -94,3 +98,48 @@ a {
 	background-color: var(--color4);
 	filter: drop-shadow(0 0 10px #0005);
 }
+
+.modal-body{
+	display:flex;
+	background-color: #999;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: bolder;
+	font-family: dastnevis, cursive;
+}
+
+.modal-header{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-family: dastnevis, cursive;
+}
+
+.image{
+	margin-bottom: 40px;
+}
+
+form{
+	text-align: center;
+	width:100%;
+}
+
+.message{
+	width:80%;
+	border: none;
+	outline:none;
+	border-radius: 30px;
+	height:50px;
+	padding: 0 40px;
+}
+
+.submit_btn{
+	all: unset;
+	border-radius: 100px;
+	height:50px;
+	padding:0 5px;
+	background-color: lightblue;
+}
+
