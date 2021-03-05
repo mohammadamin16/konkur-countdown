@@ -242,7 +242,7 @@ function getNumber() {
 	let today = new Date()
 	let mounts = konkur_day.getMonth() - today.getMonth()
 	let days = konkur_day.getDate() - today.getDate()
-	let result = mounts * 31 + days - 8
+	let result = mounts * 31 + days - 2
 	result = toPersianNumber(result + "")
 	result = toPersianNumber(result + "")
 	result = toPersianNumber(result + "")
