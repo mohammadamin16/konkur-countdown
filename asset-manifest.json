@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/konkur-countdown/static/css/main.120d1a86.chunk.css",
-    "main.js": "/konkur-countdown/static/js/main.2b5f0f29.chunk.js",
-    "main.js.map": "/konkur-countdown/static/js/main.2b5f0f29.chunk.js.map",
+    "main.js": "/konkur-countdown/static/js/main.50bd5535.chunk.js",
+    "main.js.map": "/konkur-countdown/static/js/main.50bd5535.chunk.js.map",
     "runtime-main.js": "/konkur-countdown/static/js/runtime-main.793305f2.js",
     "runtime-main.js.map": "/konkur-countdown/static/js/runtime-main.793305f2.js.map",
     "static/js/2.095275ce.chunk.js": "/konkur-countdown/static/js/2.095275ce.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.793305f2.js",
     "static/js/2.095275ce.chunk.js",
     "static/css/main.120d1a86.chunk.css",
-    "static/js/main.2b5f0f29.chunk.js"
+    "static/js/main.50bd5535.chunk.js"
   ]
 }
